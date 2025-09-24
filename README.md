@@ -1,7 +1,7 @@
 # OTP Forwarder Bot
 
 Bot ini menggunakan [Telethon](https://docs.telethon.dev/) untuk mem-forward pesan
-dari bot tertentu (`SOURCE_BOT`) ke channel pribadi (`TARGET_CHANNEL`).
+dari bot tertentu (`Telkom Akses`) ke channel pribadi (`OTP Portal`).
 
 ## Cara Jalankan di Lokal
 1. Install library
